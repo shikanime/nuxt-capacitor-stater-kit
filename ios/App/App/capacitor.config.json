@@ -1,0 +1,7 @@
+{
+  "appId": "com.nuxtcapacitorstaterkit",
+  "appName": "NuxtCapacitorStaterKit",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist"
+}

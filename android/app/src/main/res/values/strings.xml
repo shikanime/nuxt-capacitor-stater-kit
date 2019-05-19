@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NuxtCapacitorStaterKit</string>
+    <string name="title_activity_main">NuxtCapacitorStaterKit</string>
+    <string name="package_name">com.nuxtcapacitorstaterkit</string>
+    <string name="fileprovider_authority">com.nuxtcapacitorstaterkit.fileprovider</string>
+    <string name="custom_url_scheme">com.nuxtcapacitorstaterkit</string>
+</resources>
