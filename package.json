@@ -14,7 +14,9 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.ts,.vue --ignore-path .gitignore .",
     "precommit": "npm run lint",
-    "test": "jest"
+    "test": "jest",
+    "android": "cap open android",
+    "ios": "cap open ios"
   },
   "dependencies": {
     "@capacitor/android": "^1.0.0-beta.25",

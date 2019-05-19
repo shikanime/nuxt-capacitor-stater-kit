@@ -18,6 +18,12 @@ $ yarn start
 
 # generate static project
 $ yarn run generate
+
+# open in xcode
+$ yarn run ios
+
+# open in android
+$ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
